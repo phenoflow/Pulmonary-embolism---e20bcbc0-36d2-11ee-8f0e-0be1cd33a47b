@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/pulmonary-embolism-embolus---primary.py
+inputModule3:
+  class: File
+  path: python/pulmonary-embolism-artery---primary.py
+inputModule4:
+  class: File
+  path: python/pulmonary-embolism-embolectomy---primary.py
+inputModule5:
+  class: File
+  path: python/pulmonary-embolism---primary.py
+inputModule6:
+  class: File
+  path: python/embolism---primary.py
+inputModule7:
+  class: File
+  path: python/pulmonary-embolism-history---primary.py
+inputModule8:
+  class: File
+  path: python/pulmonary-embolism-procedure---primary.py
+inputModule9:
+  class: File
+  path: python/pulmonary-embolism---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
